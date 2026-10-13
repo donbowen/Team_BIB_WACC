@@ -4,7 +4,7 @@
 
 ## The question
 
-What is <Client firm> (<JNJ>)'s weighted average cost of capital, and what does it mean for the hurdle rate on its new projects?
+What is <Client firm> (JNJ)'s weighted average cost of capital, and what does it mean for the hurdle rate on its new projects?
 
 ## The output (the one thing we ship)
 
