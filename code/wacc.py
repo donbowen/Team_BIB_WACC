@@ -10,7 +10,7 @@ then run it and check the numbers make sense before you open a pull request.
 import pandas as pd
 import yfinance as yf
 
-CLIENT = 'TICKER'  # TODO: the client's ticker (the CEO picks it in README.md)
+CLIENT = 'JNJ'  # TODO: the client's ticker (the CEO picks it in README.md)
 MKT = 'SPY'
 YEARS = 5
 
