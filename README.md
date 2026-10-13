@@ -1,6 +1,6 @@
 # Team BIB: WACC for Johnson and Johnson
 
-> **CEO:** fill in every `<...>` below, then commit this file to `main`. It's the plan everyone (and every agent) works from.
+
 
 ## The question
 
@@ -14,7 +14,7 @@ A **WACC card**: one page, in our app, showing the WACC and every input behind i
 
 | column | meaning |
 |---|---|
-| `Ticker` | the client |
+| `ticker` | the client |
 | `asof` | the date the returns end |
 | `beta` | equity beta vs. SPY, daily returns, last 5 years |
 | `rf`, `mrp` | risk-free rate, market risk premium |
