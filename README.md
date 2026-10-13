@@ -29,10 +29,10 @@ A **WACC card**: one page, in our app, showing the WACC and every input behind i
 
 | Role | Name | GitHub username | Branch | Owns |
 |---|---|---|---|---|
-| CEO | <Lily> | <lilynovitsky> | `main` (reviews and merges) | this README, reviewing every pull request |
-| Developer | <Ayushi> | <Ayushi-Jain12> | `dev-wacc` | `code/wacc.py` |
-| Product manager | <Natalie> | <username> | `pm-app` | `app.py` |
-| Analyst | <Kara> | <Kag227-hub> | `analyst-inputs` | `inputs/assumptions.csv` (every number has a source) |
+| CEO | Lily | lilynovitsky | `main` (reviews and merges) | this README, reviewing every pull request |
+| Developer | Ayushi | Ayushi-Jain12 | `dev-wacc` | `code/wacc.py` |
+| Product manager | Natalie | <username> | `pm-app` | `app.py` |
+| Analyst | Kara | Kag227-hub | `analyst-inputs` | `inputs/assumptions.csv` (every number has a source) |
 
 _Team of 3? The CEO is also the analyst._
 
