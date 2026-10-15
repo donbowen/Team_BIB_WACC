@@ -1,7 +1,7 @@
 item,value,source
-rf,0.0529,"TODO (analyst): e.g. the 10-year Treasury yield on FRED (DGS10) as of a date you name"
-mrp,0.0370,"TODO (analyst): market risk premium; say where it comes from and why"
-rd,0.036,"TODO (analyst): pre-tax cost of debt; e.g. yield on the firm's bonds or interest expense / total debt"
-tax,0.21,"TODO (analyst): tax rate; statutory or effective (income tax expense / pretax income)"
-w_e,0.9288,"TODO (analyst): market cap / (market cap + total debt)"
-w_d,0.0712,"TODO (analyst): total debt / (market cap + total debt)"
+rf,0.0528,"TODO (analyst): e.g. the 10-year Treasury yield on FRED (DGS10) as of 9/30/2026"
+mrp,0.0370,"TODO (analyst): market risk premium; as of 9/30/2026, swath Damodaran’s implied U.S. equity risk premium at the start of October 2026, using September 30 market data."
+rd,0.036,"TODO (analyst): pre-tax cost of debt; e.g. yield on the firm's bonds or interest expense / total debt. An estimate based on J&J’s latest available debt filing: its non-current debt had a 3.57% weighted average effective rate, and commercial paper had a 3.68% rate. I blended those rates using the reported current and non-current debt balances. J&J’s Q2 2026 SEC filing The filing covers June 28; the September-quarter filing wasn’t available when I made the estimate."
+tax,0.21,"TODO (analyst): tax rate; The U.S. federal corporate statutory tax rate, used as a marginal tax-rate assumption for WACC."
+w_e,0.9288,"TODO (analyst): market cap / (market cap + total debt). Calculated from J&J’s September 30 market capitalization of $639.68 billion and its latest reported debt of about $49.036 billion. The formulas are equity weight = market cap ÷ (market cap + debt) and debt weight = debt ÷ (market cap + debt)"
+w_d,0.0712,"TODO (analyst): total debt / (market cap + total debt). Calculated from J&J’s September 30 market capitalization of $639.68 billion and its latest reported debt of about $49.036 billion. The formulas are equity weight = market cap ÷ (market cap + debt) and debt weight = debt ÷ (market cap + debt)"
